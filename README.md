@@ -1,5 +1,5 @@
 # Exp-3a-Find the maximum of a list of numbers
-# Date-05.09.2023
+## Date-05.09.2023
 ## Aim:
 To write a program to find the maximum of a list of numbers.
 ## Equipment’s required:
